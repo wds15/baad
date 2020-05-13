@@ -1,4 +1,4 @@
-# Source for "Bayesian aggregation of average data: An application in drug developement"
+# Source for "Bayesian aggregation of average data: An application in drug development"
 
 Date: 13th May 2020
 
