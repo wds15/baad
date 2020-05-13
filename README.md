@@ -1,11 +1,11 @@
-# Source for "Bayesian aggregation of average data: An Application in Drug Developement"
+# Source for "Bayesian aggregation of average data: An application in drug developement"
 
 Date: 13th May 2020
 
 This repository includes updated R and Stan source files used to
 generate the main outputs in our paper on Bayesian aggregation of
 average data. The updated codes ensure that the source runs with the
-current RStan 2.19 release.
+RStan 2.19 release.
 
 The code is distributed under the BSD-3 license, see LICENSE.
 
@@ -15,8 +15,8 @@ _S. Weber, A. Gelman, D. Lee, M. Betancourt, A. Vehtari, A. Racine
 (2018), "Bayesian aggregation of average data: An application in drug
 development", Ann. Appl. Stat., Volume 12, Number 3 (2018), 1583-1604._
 
-URL: https://projecteuclid.org/euclid.aoas/1536652966
-doi: 10.1214/17-AOAS1122
+URL: https://projecteuclid.org/euclid.aoas/1536652966  
+doi: 10.1214/17-AOAS1122  
 arXiv: TBD
 
 These sources are also available in their original form as
