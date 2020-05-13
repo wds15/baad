@@ -47,6 +47,8 @@ Updates will be posted to https://github.com/wds15/baad
 
 - `build-rimage.sh` Build Docker image
 - `run-docker-cmd.sh` Run analysis with Docker image as container
+- `Dockerfile` Docker image R 4.0.0 with R packages from 20th April
+  2020
 - `linear_baad.R` Linear example
 - `pkpd_badd.R` Non-linear example
 - `utils_baad.R` Various utility functions
