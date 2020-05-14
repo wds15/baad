@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 RUN=${1-bash}
 

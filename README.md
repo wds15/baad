@@ -16,13 +16,13 @@ _S. Weber, A. Gelman, D. Lee, M. Betancourt, A. Vehtari, A. Racine
 development", Ann. Appl. Stat., Volume 12, Number 3 (2018), 1583-1604._
 
 URL: https://projecteuclid.org/euclid.aoas/1536652966  
-doi: 10.1214/17-AOAS1122  
-arXiv: TBD
+doi: [10.1214/17-AOAS1122](https://doi.org/10.1214/17-AOAS1122)  
+arXiv: [1602.02055](https://arxiv.org/abs/1602.02055)
 
 These sources are also available in their original form as
 supplemental material to the original article under the DOI
 
-doi: 10.1214/17-AOAS1122SUPP
+doi: [10.1214/17-AOAS1122SUPP](https://doi.org/10.1214/17-AOAS1122SUPP)
 
 To use the code, we recommend to start with one of the examples below
 as template and modify it to your needs.
