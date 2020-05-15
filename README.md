@@ -29,7 +29,7 @@ as template and modify it to your needs.
 
 The repository includes a Docker image defintion which is configured
 to use R 4.0.0 and R packages as dated from the 20th April of 2020. To
-run the scripts with this environment please first build locally
+run the scripts with this environment please first build locally the
 Docker image with the `build-rimage.sh` script. Once the Docker image
 is created you can run the analysis in the source directory via
 
